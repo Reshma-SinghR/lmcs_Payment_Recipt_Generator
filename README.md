@@ -52,7 +52,40 @@ This project is currently **Front-End Only**.
 * Vanilla JavaScript
 * LocalStorage for session handling
 
-No backend or database integration has been implemented yet.
+⚡ Desktop Application Framework
+Electron.js
+
+* Converts the web project into a desktop application
+* Provides IPC communication between frontend & backend
+* Handles secure login, window creation, and DB access
+
+🗂️ Database
+SQLite (sql.js version)
+
+* Lightweight embedded database
+* Stores all generated receipts locally as school.db
+* No server required
+
+🔌 Electron Preload / IPC
+Secure communication layer (preload.js)
+
+* Exposes safe APIs:
+* window.api.login()
+* window.api.saveReceipt()
+* window.api.getReceipts()
+
+⚙️ Backend (Inside Electron)
+Node.js
+
+* Database operations
+* IPC handlers
+* Main window controller
+
+📦 Build & Package Tools (Optional for future)
+* Electron Builder / Forge (Recommended for EXE creation)
+* Node Package Manager (NPM)
+---
+
 
 ---
 
@@ -78,8 +111,6 @@ No backend or database integration has been implemented yet.
 ---
 ## 📈 Future Enhancements
 
-* Backend integration (PHP / Node.js)
-* Database for receipt record storage
 * OTP-based login
 * Role-based access control
 * PDF auto-download feature
