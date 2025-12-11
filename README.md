@@ -126,5 +126,18 @@ Node.js
 This project was designed and developed as a client-based freelance solution for Lourdes Mata Central School, focusing on usability, modern UI, and efficient receipt management.
 ---
 ## 🔗 SceenShots
-* login.html.page 
+* login.html.page
+  <img width="1327" height="897" alt="Screenshot 2025-12-11 115625" src="https://github.com/user-attachments/assets/249a8949-644f-41ee-ad57-4892c01b15b4" />
+
+
+* Enter password Animation
 <img width="1329" height="893" alt="image" src="https://github.com/user-attachments/assets/3c731b2c-5acc-4b5b-b3d5-23338940112d" />
+
+* Form Page
+  <img width="1319" height="855" alt="image" src="https://github.com/user-attachments/assets/8b95a72e-0374-4c3f-a84e-0289b9248ef5" />
+
+* Preview Page
+  <img width="1325" height="884" alt="image" src="https://github.com/user-attachments/assets/81dbbdff-a071-45d0-ab9a-015338feb2e5" />
+
+* Print preview page
+  <img width="1323" height="888" alt="image" src="https://github.com/user-attachments/assets/cb50052f-dca1-40fa-bbca-33bd9606cba7" />
