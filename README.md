@@ -5,6 +5,12 @@ A front-end web-based payment receipt generator for Lourdes Mata Central School 
 
 A modern, user-friendly web-based **Payment Receipt Generator System** developed for **Lourdes Mata Central School**. This project enables school staff to securely log in, create, preview, edit, and print professional fee receipts with a consistent premium design and smooth user experience.
 
+## 🎥 Desktop Application Demo
+
+This video demonstrates the complete workflow of the LMCS Payment Receipt Generator desktop application.
+
+https://github.com/Reshma-SinghR/lmcs_Payment_Recipt_Generator/raw/main/demo_video%20of%20server24%20-%20Made%20with%20Clipchamp%20(1).mp4
+
 ---
 
 ## 📌 Project Overview
